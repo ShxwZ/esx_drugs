@@ -10,8 +10,11 @@ Some animations have been changed.
 [Requirements]:
 
 MySQL
+
 EssentialMode Base by @Kanersps: [[Release] EssentialMode base ](https://forum.fivem.net/t/release-essentialmode-base/3665)
+
 ES Extended (ESX) by @GiZz: [https://github.com/FXServer-ESX/fxserver-es_extended ](https://github.com/FXServer-ESX/fxserver-es_extended)
+
 esx_policejob: [https://github.com/FXServer-ESX/fxserver-esx_policejob ](https://github.com/FXServer-ESX/fxserver-esx_policejob)
 
 [Features]:
